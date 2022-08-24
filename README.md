@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emyly.mary@gmail.com)](mailto:emyly.mary@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/emilia_castroo/)](https://www.instagram.com/emilia_castroo/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEmiliaCastro&show_icons=true&theme=tokyonight)
 <!--
 **MariaEmiliaCastro/MariaEmiliaCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
