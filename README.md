@@ -2,12 +2,11 @@
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working as an RPA Developer, but I also really like web development and building apps in React has become one of my favorite pastimes!
-- 💬 Ask me about music!
+- 🔭 I’m currently working as an RPA Developer, but I also really like web development!
+- 💬 Ask me about music, I love it so much that I even created an streaming app. It´s called musika!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/maria-emilia-castro-oliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emyly.mary@gmail.com)](mailto:emyly.mary@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/emilia_castroo/)](https://www.instagram.com/emilia_castroo/)
 
 <hr />
 <span>
