@@ -1,5 +1,5 @@
 ### Olá, eu sou a Maria! 👋
-<img align='right' src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="150">
 
 
 - 😄 Meus pronomes: Ela/Dela
