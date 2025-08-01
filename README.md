@@ -3,7 +3,7 @@
 
 
 - 😄 Meus pronomes: Ela/Dela
-- 🔭 Atualmente estou trabalhando como Trainee de Engenharia de Software na Pipefy, entrei por meio do programa Young Guns 2023 🏄‍♀️!
+- 🔭 Atualmente estou trabalhando como Engenheira de Software no GRAN!
 - 💬 Eu amo escutar música, na verdade, eu amo tanto que criei como um projeto pessoal um site de streaming em que você pode fazer o upload das suas próprias músicas, o nome dele é Musika! Se quiser dar uma olhadinha, ele está logo abaixo nos meus pins 📍 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/maria-emilia-castro-oliveira/)
